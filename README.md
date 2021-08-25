@@ -1,7 +1,12 @@
-This is the READ.me
+## How do I use GitHub?
+![Recordit GIF](images/clone.gif)
+
+
 Things you need to know to get started:
 
-Create and account:
+Create an account in github: [link](https://github.com/join) 
 
-Create a personal token:
-https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token
+Install github (please follow the instructions for your OS): [link](https://github.com/git-guides/install-git)
+
+Create a personal token [here](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) 
+
