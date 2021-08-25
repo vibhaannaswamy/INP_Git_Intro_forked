@@ -33,7 +33,7 @@ For a more complete cheat sheet, check the [link](https://education.github.com/g
 1. Go to our repo: https://tinyurl.com/INP2021-BC
 
 2. Fork the repository (check here for more details) [link](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
-![fork-a-repo](images/fork_button.jeg)
+![fork-a-repo](images/fork_button.jpeg)
 
 3. Clone your repo:
 ```bash
