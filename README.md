@@ -1,5 +1,5 @@
 ## How do I use GitHub?
-![Recordit GIF](images/clone.gif)
+![Recordit GIF](images/huh-confused.gif)
 
 
 Things you need to know to get started:
