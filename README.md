@@ -56,7 +56,7 @@ $ git status
 $ git add -A
 ```
 
-8. Commit your chages
+8. Commit your changes
 ```bash
 $ git commit -m "[commit message]"
 ```
