@@ -44,7 +44,7 @@ git clone https://github.com/YOUR-USERNAME/INP_2021_Git_Intro.git
 cd INP_2021_Git_Intro
 ```
 
-5. Add a photo of you to `photos` with the filename as `Firstname_Lastname.jpeg` (please, use <span style="color:blue"> jpeg </span>.)
+5. Add a photo of you to `photos` with the filename as `Firstname_Lastname.jpeg` (please, use <span style="color:blue"> jpeg</span>.)
 
 6. Check your modifications
 ```bash
