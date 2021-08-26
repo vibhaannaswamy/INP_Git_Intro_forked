@@ -1,7 +1,8 @@
-from PIL import Image, ImageDraw, ImageOps
+from PIL import Image, ImageDraw, ImageOps, ImageFont
 import glob
 import os
 import random
+import numpy as np
 
 def concat_images(image_paths, size, shape=None):
     # Open images and resize them
@@ -31,8 +32,9 @@ def concat_images(image_paths, size, shape=None):
 
 # Get list of image paths
 folder = '../photos'
+ext = [".jpeg", ".jpg"]
 image_paths = [os.path.join(folder, f) 
-               for f in os.listdir(folder) if f.endswith('.jpeg')]
+               for f in os.listdir(folder) if f.endswith(tuple(ext))]
 
 collage_size = np.sqrt(len(image_paths))
 
