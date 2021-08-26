@@ -68,3 +68,6 @@ git push
 
 10. [BONUS] Create a pull request back to Antonio's repository. We will make a collage with the photos of the people who completed this tutorial! :)
 ![pull_req](images/pull-request-start-review-button.png)
+
+11. Here is the current collage!
+![collage](collage.jpg)
