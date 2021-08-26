@@ -70,4 +70,5 @@ git push
 ![pull_req](images/pull-request-start-review-button.png)
 
 11. Here is the current collage!
+
 ![collage](collage.jpg)
