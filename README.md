@@ -35,35 +35,35 @@ For a more complete cheat sheet, check the [link](https://education.github.com/g
 
 3. Clone your repo:
 ```bash
-$ git clone https://github.com/YOUR-USERNAME/INP_2021_Git_Intro.git
+git clone https://github.com/YOUR-USERNAME/INP_2021_Git_Intro.git
 ```
 ![clone](images/https-url-clone.png)
 
 4. Get into the folder:
 ```bash
-$ cd INP_2021_Git_Intro
+cd INP_2021_Git_Intro
 ```
 
 5. Add a photo of you to `photos` with the filename as `Firstname_Lastname.jpeg`
 
 6. Check your modifications
 ```bash
-$ git status
+git status
 ```
 
 7. Add your modifications
 ```bash
-$ git add -A
+git add -A
 ```
 
 8. Commit your changes
 ```bash
-$ git commit -m "[commit message]"
+git commit -m "[commit message]"
 ```
 
 9. Push your changes
 ```bash
-$ git push
+git push
 ```
 
 10. [BONUS] Create a pull request back to Antonio's repository. We will make a collage with the photos of the people who completed this tutorial! :)
