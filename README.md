@@ -28,50 +28,48 @@
 For a more complete cheat sheet, check the [link](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### Let's try it out! 
-1. First, access this repository if you are not here yet:  https://tinyurl.com/INP2021-BC
-
-2. Fork the repository (check here for more details) [link](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
+1. Fork this repository (check here for more details) [link](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
 
 ![fork-a-repo](images/fork_button.jpeg)
 
-3. Clone your repo:
+2. Clone your repo:
 ```bash
 git clone https://github.com/YOUR-USERNAME/INP_2021_Git_Intro.git
 ```
 You can obtain the correct url for your fork like shown below
 ![clone](images/https-url-clone.png)
 
-4. Get into the folder:
+3. Get into the folder:
 ```bash
 cd INP_2021_Git_Intro
 ```
 
-5. Add a photo of you to `photos` with the filename as `Firstname_Lastname.jpeg` (please, use <span style="color:blue"> jpeg</span>.)
+4. Add a photo of you to `photos` with the filename as `Firstname_Lastname.jpeg` (please, use <span style="color:blue"> jpeg</span>.)
 
-6. Check your modifications
+5. Check your modifications
 ```bash
 git status
 ```
 
-7. Add your modifications
+6. Add your modifications
 ```bash
 git add -A
 ```
 
-8. Commit your changes
+7. Commit your changes
 ```bash
 git commit -m "[commit message]"
 ```
 
-9. Push your changes
+8. Push your changes
 ```bash
 git push
 ```
 
-10. [BONUS] Create a pull request back to Antonio's repository. We will make a collage with the photos of the people who completed this tutorial! :)
+9. [BONUS] Create a pull request back to Antonio's repository. We will make a collage with the photos of the people who completed this tutorial! :)
 
 ![pull_req](images/pull-request-start-review-button.png)
 
-11. Here is the current collage!
+10. Here is the current collage!
 
 ![collage](collage.jpg)
