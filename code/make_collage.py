@@ -41,3 +41,4 @@ collage_size = np.sqrt(len(image_paths))
 # Create and save image grid
 image = concat_images(image_paths, (300, 300), (int(np.round(collage_size)),int(np.ceil(collage_size))))
 image.save('../collage.jpg', 'JPEG')
+
