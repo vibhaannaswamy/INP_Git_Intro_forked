@@ -66,10 +66,10 @@ git commit -m "[commit message]"
 git push
 ```
 
-9. [BONUS] Create a pull request back to Antonio's repository. We will make a collage with the photos of the people who completed this tutorial! :)
+9. Create a pull request back to Antonio's repository. We will make a collage with the photos of the people who completed this tutorial! :)
 
 ![pull_req](images/pull-request-start-review-button.png)
 
-10. Here is the current collage!
+10. Here is the collage from the previous year!
 
 ![collage](collage.jpg)
