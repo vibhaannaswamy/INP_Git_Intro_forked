@@ -34,7 +34,7 @@ For a more complete cheat sheet, check the [link](https://education.github.com/g
 
 2. Clone your repo:
 ```bash
-git clone https://github.com/YOUR-USERNAME/INP_2021_Git_Intro.git
+git clone https://github.com/YOUR-USERNAME/INP_Git_Intro.git
 ```
 You can obtain the correct url for your fork like shown below
 ![clone](images/https-url-clone.png)
