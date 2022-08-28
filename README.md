@@ -41,7 +41,7 @@ You can obtain the correct url for your fork like shown below
 
 3. Get into the folder:
 ```bash
-cd INP_2021_Git_Intro
+cd INP_Git_Intro
 ```
 
 4. Add a photo of you to `photos` with the filename as `Firstname_Lastname.jpeg` (please, use <span style="color:blue"> jpeg</span>.)
